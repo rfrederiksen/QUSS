@@ -1,0 +1,14 @@
+name: quss
+channels:
+- conda-forge
+dependencies:
+- python=3.9
+- numpy
+- pandas
+- geopandas
+- scipy
+- scikit-learn
+- jupyterlab
+- matplotlib
+- seaborn
+prefix: quss
